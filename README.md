@@ -22,7 +22,7 @@ This dashboard provides a comprehensive view of Level 2 electric vehicle chargin
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ## How to Use
 
@@ -38,7 +38,7 @@ This dashboard provides a comprehensive view of Level 2 electric vehicle chargin
 
 ## Data Sources
 
-Our dashboard utilizes reliable data from [source_name](source_link) to provide you with up-to-date information.
+Our dashboard utilizes reliable data from [US Department of Energy's National Renewable Energy Laboratory (NREL)](https://services.arcgis.com/nzS0F0zdNLvs7nc8/arcgis/rest/services/Electric_Vehicle_Level_2_charging_stations_public_layer_view/FeatureServer) to provide you with up-to-date information.
 
 ## Feedback and Support
 
